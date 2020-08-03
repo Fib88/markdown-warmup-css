@@ -18,5 +18,9 @@ ul{
 }
 
 #top {
-    background-color:black;
+    background-color:orange;
+}
+
+table{
+    border-width: 1px; border-color:black;
 }
