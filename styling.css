@@ -12,3 +12,11 @@ table {
 h4 {
     border-color:crimson;
 }
+
+ul{
+    text-emphasis: olivedrab;
+}
+
+#top {
+    background-color:black;
+}
