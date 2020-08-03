@@ -1,4 +1,4 @@
-body {background-color:dodgerblue;
+body {background-color:dodgerblue;text-align:center;
 }
 
 h1 {
@@ -6,7 +6,7 @@ h1 {
 }
 
 table {
-    background-color:forestgreen;
+    background-color:forestgreen;border-width:2px;border-color:darkred;align-self:center;
 }
 
 h4 {
