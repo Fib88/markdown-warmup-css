@@ -5,10 +5,6 @@ h1 {
     color:white;
 }
 
-table {
-    background-color:forestgreen;border-width:2px;border-color:darkred;align-self:center;
-}
-
 h4 {
     border-color:crimson;
 }
@@ -22,5 +18,5 @@ ul{
 }
 
 table{
-    border-width: 1px; border-color:black;
+    background-color:forestgreen;display:inline;
 }
